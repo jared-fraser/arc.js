@@ -2,7 +2,7 @@
   "name": "arc",
   "version": "0.1.0",
   "description": "draw great circle arcs",
-  "url": "https://github.com/springmeyer/arc.js",
+  "url": "https://github.com/jared-fraser/arc.js",
   "keywords": [
     "maps",
     "spherical",
